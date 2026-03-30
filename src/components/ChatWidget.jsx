@@ -89,7 +89,7 @@ export default function ChatWidget() {
         {
           headers: {
             "Content-Type": "application/json",
-            "X-goog-api-key": "AIzaSyAF8Nsw_RHYiW3t0LdwYFTAGBXLAsARmRY"
+            "X-goog-api-key": "AIzaSyCKmEGYUm91xGoL-baEvNdZgHj0EhQDPas"
           }
         }
       );
